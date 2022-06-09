@@ -19,3 +19,5 @@ After running ipynb file, .h5 file is generated for transfer learning. Then in t
 * streamlit run main_app.py
 
 After running those command the app will appear in browser as app_screen.png shows.
+
+![app_screen](https://user-images.githubusercontent.com/70243598/172761686-1913d184-0fbf-4290-99dd-903f521ecaaf.png)
